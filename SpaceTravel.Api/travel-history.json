@@ -1,0 +1,512 @@
+[
+  {
+    "Id": "30393dc9-1323-4e8f-a99c-3502a588f04f",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "boreth",
+    "PassengerCount": 1,
+    "TotalWeightKg": 67,
+    "DepartureTime": "2026-10-07T23:36:41.9955116Z",
+    "ArrivalTime": "2026-10-07T23:41:41.9955311Z"
+  },
+  {
+    "Id": "aca8806a-6ecc-474f-a689-ded32b19aa16",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "boreth",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 2,
+    "TotalWeightKg": 247,
+    "DepartureTime": "2026-10-07T23:46:47.4727959Z",
+    "ArrivalTime": "2026-10-07T23:51:47.472817Z"
+  },
+  {
+    "Id": "f90a8c79-e3bc-4e3b-a29e-e50c7ea72d64",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "argusx",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 1,
+    "TotalWeightKg": 123,
+    "DepartureTime": "2026-10-07T23:46:47.48458Z",
+    "ArrivalTime": "2026-10-07T23:51:47.4845802Z"
+  },
+  {
+    "Id": "b0c89f8d-b80c-472d-bf5e-a4976bcb5ba6",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "bluehorizon",
+    "DestinationPlanetId": "angel1",
+    "PassengerCount": 1,
+    "TotalWeightKg": 83,
+    "DepartureTime": "2026-10-07T23:46:55.4734121Z",
+    "ArrivalTime": "2026-10-07T23:51:55.4734122Z"
+  },
+  {
+    "Id": "19a9a15a-1643-4337-8767-4eb7334d4dab",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "bluehorizon",
+    "DestinationPlanetId": "angel1",
+    "PassengerCount": 1,
+    "TotalWeightKg": 137,
+    "DepartureTime": "2026-10-08T00:41:50.3863489Z",
+    "ArrivalTime": "2026-10-08T00:46:50.3863493Z"
+  },
+  {
+    "Id": "892c5e46-202c-471f-bb8c-51236160bab5",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "argusx",
+    "DestinationPlanetId": "boreth",
+    "PassengerCount": 1,
+    "TotalWeightKg": 116,
+    "DepartureTime": "2026-10-08T00:43:10.8474134Z",
+    "ArrivalTime": "2026-10-08T00:48:10.8474135Z"
+  },
+  {
+    "Id": "439bbb36-3dab-42da-a883-bf7292f7bd43",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "argusx",
+    "DestinationPlanetId": "boreth",
+    "PassengerCount": 1,
+    "TotalWeightKg": 166,
+    "DepartureTime": "2026-10-08T00:43:15.8598048Z",
+    "ArrivalTime": "2026-10-08T00:48:15.8598049Z"
+  },
+  {
+    "Id": "d045884e-78b4-41ae-8f7a-66dbc6eba1b3",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1700,
+    "DepartureTime": "2026-10-08T01:33:20.9803685Z",
+    "ArrivalTime": "2026-10-08T01:38:20.9803901Z"
+  },
+  {
+    "Id": "cee6c14e-8afe-4724-8756-062b4c078907",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "boreth",
+    "DestinationPlanetId": "angel1",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1824,
+    "DepartureTime": "2026-10-08T01:33:20.9975609Z",
+    "ArrivalTime": "2026-10-08T01:38:20.9975612Z"
+  },
+  {
+    "Id": "d445f14b-113a-4176-9249-06b77ff97e1f",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "aurelia",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1752,
+    "DepartureTime": "2026-10-08T01:33:21.0094119Z",
+    "ArrivalTime": "2026-10-08T01:38:21.0094122Z"
+  },
+  {
+    "Id": "f9b80dfa-dea3-4801-858a-84d5de433575",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "boreth",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1851,
+    "DepartureTime": "2026-10-08T01:36:01.3302691Z",
+    "ArrivalTime": "2026-10-08T01:41:01.3302916Z"
+  },
+  {
+    "Id": "a6574df9-6139-4857-8963-5d651d35edfa",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "boreth",
+    "DestinationPlanetId": "argusx",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1701,
+    "DepartureTime": "2026-10-08T01:36:01.3386388Z",
+    "ArrivalTime": "2026-10-08T01:41:01.338639Z"
+  },
+  {
+    "Id": "0b69cef9-5e5b-4357-8b04-7bc7112c6190",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "aurelia",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1796,
+    "DepartureTime": "2026-10-08T01:36:01.3479335Z",
+    "ArrivalTime": "2026-10-08T01:41:01.3479339Z"
+  },
+  {
+    "Id": "74666c4a-6ada-4cd8-b275-ba932b5e2f45",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "boreth",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1705,
+    "DepartureTime": "2026-10-08T01:47:18.5074026Z",
+    "ArrivalTime": "2026-10-08T01:52:18.5074032Z"
+  },
+  {
+    "Id": "3c77809e-45ba-4903-aa13-2d6243c9dbda",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "boreth",
+    "DestinationPlanetId": "angel1",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1828,
+    "DepartureTime": "2026-10-08T01:47:18.5145395Z",
+    "ArrivalTime": "2026-10-08T01:52:18.5145399Z"
+  },
+  {
+    "Id": "d73ee857-3425-4b22-b60a-fa8d855a7e1b",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "aurelia",
+    "DestinationPlanetId": "argusx",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1757,
+    "DepartureTime": "2026-10-08T01:47:18.5266768Z",
+    "ArrivalTime": "2026-10-08T01:52:18.5266774Z"
+  },
+  {
+    "Id": "c9f75661-a404-4392-8730-ae64ba32d442",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1818,
+    "DepartureTime": "2026-10-08T01:55:01.9156126Z",
+    "ArrivalTime": "2026-10-08T02:00:01.9156128Z"
+  },
+  {
+    "Id": "003f6619-9ab4-4db8-ab00-5f3619473a1d",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "boreth",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1807,
+    "DepartureTime": "2026-10-08T01:55:01.9198805Z",
+    "ArrivalTime": "2026-10-08T02:00:01.9198809Z"
+  },
+  {
+    "Id": "caaf9a51-6f08-4132-8e5f-fac7258bc049",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "aurelia",
+    "DestinationPlanetId": "angel1",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1888,
+    "DepartureTime": "2026-10-08T01:55:01.9343107Z",
+    "ArrivalTime": "2026-10-08T02:00:01.9343115Z"
+  },
+  {
+    "Id": "2eb2d809-2551-436a-bece-f7d300719f74",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "argusx",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1812,
+    "DepartureTime": "2026-10-08T02:20:01.4906477Z",
+    "ArrivalTime": "2026-10-08T02:25:01.4906481Z"
+  },
+  {
+    "Id": "b965d587-e080-4236-8cb8-979079086b31",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "boreth",
+    "DestinationPlanetId": "angel1",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1815,
+    "DepartureTime": "2026-10-08T02:20:01.4947623Z",
+    "ArrivalTime": "2026-10-08T02:25:01.4947628Z"
+  },
+  {
+    "Id": "c40ed457-5b27-4b88-a731-8489630bd0b5",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "aurelia",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1685,
+    "DepartureTime": "2026-10-08T02:20:01.5105882Z",
+    "ArrivalTime": "2026-10-08T02:25:01.5105884Z"
+  },
+  {
+    "Id": "0b1db564-af20-4e9e-a632-5b759d2c3cb6",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "boreth",
+    "DestinationPlanetId": "aurelia",
+    "PassengerCount": 1,
+    "TotalWeightKg": 68,
+    "DepartureTime": "2026-10-08T02:38:08.9875615Z",
+    "ArrivalTime": "2026-10-08T02:43:08.9875616Z"
+  },
+  {
+    "Id": "28741af1-6469-47c2-8fc8-c1821e7644fb",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "boreth",
+    "DestinationPlanetId": "argusx",
+    "PassengerCount": 1,
+    "TotalWeightKg": 76,
+    "DepartureTime": "2026-10-08T02:38:14.010646Z",
+    "ArrivalTime": "2026-10-08T02:43:14.0106461Z"
+  },
+  {
+    "Id": "fe0f0d2c-7335-47ac-a8d7-a26b9b82ec81",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "aurelia",
+    "DestinationPlanetId": "angel1",
+    "PassengerCount": 1,
+    "TotalWeightKg": 81,
+    "DepartureTime": "2026-10-08T02:38:19.0369541Z",
+    "ArrivalTime": "2026-10-08T02:43:19.0369542Z"
+  },
+  {
+    "Id": "a75e6586-1a80-4d1c-a5f9-d1b20fa7a67b",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "argusx",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1829,
+    "DepartureTime": "2026-10-08T02:44:06.4080634Z",
+    "ArrivalTime": "2026-10-08T02:49:06.4080837Z"
+  },
+  {
+    "Id": "94065813-db55-4cef-b682-65fa19be3c39",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "boreth",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1798,
+    "DepartureTime": "2026-10-08T02:44:06.4217411Z",
+    "ArrivalTime": "2026-10-08T02:49:06.4217414Z"
+  },
+  {
+    "Id": "b218de35-2514-43f9-9133-386ab39b6a6f",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "aurelia",
+    "DestinationPlanetId": "argusx",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1849,
+    "DepartureTime": "2026-10-08T02:44:06.4349619Z",
+    "ArrivalTime": "2026-10-08T02:49:06.4349621Z"
+  },
+  {
+    "Id": "d05ee0dc-095c-4954-b903-942c38bd3298",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "aurelia",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1921,
+    "DepartureTime": "2026-10-08T04:05:04.3834296Z",
+    "ArrivalTime": "2026-10-08T04:10:04.3834301Z"
+  },
+  {
+    "Id": "609bb16a-97e0-456b-914c-8cc5957e5aa1",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "boreth",
+    "DestinationPlanetId": "argusx",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1733,
+    "DepartureTime": "2026-10-08T04:05:04.3879294Z",
+    "ArrivalTime": "2026-10-08T04:10:04.38793Z"
+  },
+  {
+    "Id": "de091390-f303-4e88-b793-86763eb1c436",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "aurelia",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1754,
+    "DepartureTime": "2026-10-08T04:05:04.3996408Z",
+    "ArrivalTime": "2026-10-08T04:10:04.3996412Z"
+  },
+  {
+    "Id": "0f33b038-88c1-4c31-9abc-83439ee79249",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1771,
+    "DepartureTime": "2026-10-08T04:35:50.2569047Z",
+    "ArrivalTime": "2026-10-08T04:40:50.256905Z"
+  },
+  {
+    "Id": "aa90f478-9a43-43b1-8ca7-47aafed34b0d",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "boreth",
+    "DestinationPlanetId": "argusx",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1716,
+    "DepartureTime": "2026-10-08T04:35:50.2612491Z",
+    "ArrivalTime": "2026-10-08T04:40:50.2612493Z"
+  },
+  {
+    "Id": "57de5fce-fcfc-4e21-83de-9c9e2529d4bf",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "aurelia",
+    "DestinationPlanetId": "argusx",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1799,
+    "DepartureTime": "2026-10-08T04:35:50.2713413Z",
+    "ArrivalTime": "2026-10-08T04:40:50.2713414Z"
+  },
+  {
+    "Id": "b6d66eb2-b937-40cf-aafb-5f1f0caa6988",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 19,
+    "TotalWeightKg": 1607,
+    "DepartureTime": "2026-10-08T04:50:26.1559146Z",
+    "ArrivalTime": "2026-10-08T04:55:26.1559147Z"
+  },
+  {
+    "Id": "fb6da6a3-cff6-40bb-b4df-e0897642dca4",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "boreth",
+    "PassengerCount": 1,
+    "TotalWeightKg": 102,
+    "DepartureTime": "2026-10-08T04:50:26.1703478Z",
+    "ArrivalTime": "2026-10-08T04:55:26.170348Z"
+  },
+  {
+    "Id": "71a31ca9-b253-4e37-830a-9c1549052987",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "bluehorizon",
+    "DestinationPlanetId": "argusx",
+    "PassengerCount": 1,
+    "TotalWeightKg": 71,
+    "DepartureTime": "2026-10-08T04:52:18.6584036Z",
+    "ArrivalTime": "2026-10-08T04:57:18.6584284Z"
+  },
+  {
+    "Id": "467a69f2-9d34-4f83-aaa7-1cb1cbe04d9c",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "aurelia",
+    "DestinationPlanetId": "angel1",
+    "PassengerCount": 1,
+    "TotalWeightKg": 75,
+    "DepartureTime": "2026-10-08T04:52:23.6961271Z",
+    "ArrivalTime": "2026-10-08T04:57:23.6961271Z"
+  },
+  {
+    "Id": "be40ee02-bb96-42ab-9257-ec62886cc9df",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "argusx",
+    "DestinationPlanetId": "boreth",
+    "PassengerCount": 1,
+    "TotalWeightKg": 64,
+    "DepartureTime": "2026-10-08T05:01:00.4364931Z",
+    "ArrivalTime": "2026-10-08T05:06:00.4365142Z"
+  },
+  {
+    "Id": "1bfc93a8-570e-4a96-9c7e-9645cb99db81",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "aurelia",
+    "PassengerCount": 1,
+    "TotalWeightKg": 67,
+    "DepartureTime": "2026-10-08T05:01:05.4544238Z",
+    "ArrivalTime": "2026-10-08T05:06:05.4544238Z"
+  },
+  {
+    "Id": "a2552bef-a883-4b41-841c-d2bf610f00d7",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "boreth",
+    "PassengerCount": 1,
+    "TotalWeightKg": 84,
+    "DepartureTime": "2026-10-08T05:07:34.4363881Z",
+    "ArrivalTime": "2026-10-08T05:12:34.4364115Z"
+  },
+  {
+    "Id": "78799f6e-3455-4e42-8ac5-2dbeee491514",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "aurelia",
+    "DestinationPlanetId": "argusx",
+    "PassengerCount": 1,
+    "TotalWeightKg": 104,
+    "DepartureTime": "2026-10-08T05:07:39.4611957Z",
+    "ArrivalTime": "2026-10-08T05:12:39.4611957Z"
+  },
+  {
+    "Id": "accf3b85-4bdf-44fc-91f4-60e67925c176",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "bluehorizon",
+    "DestinationPlanetId": "boreth",
+    "PassengerCount": 1,
+    "TotalWeightKg": 67,
+    "DepartureTime": "2026-10-08T05:07:44.4766677Z",
+    "ArrivalTime": "2026-10-08T05:12:44.4766678Z"
+  },
+  {
+    "Id": "b5a2da3c-1a63-44d1-83b0-9474abe68eb1",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "argusx",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 1,
+    "TotalWeightKg": 118,
+    "DepartureTime": "2026-10-08T05:15:20.2210038Z",
+    "ArrivalTime": "2026-10-08T05:20:20.2210255Z"
+  },
+  {
+    "Id": "48858633-3e64-47ca-ad0e-4e7ddc5ccdc4",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "aurelia",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 1,
+    "TotalWeightKg": 110,
+    "DepartureTime": "2026-10-08T05:15:25.2507737Z",
+    "ArrivalTime": "2026-10-08T05:20:25.2507737Z"
+  },
+  {
+    "Id": "b63490bc-4863-4eae-9f5e-a857b1046327",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "bluehorizon",
+    "PassengerCount": 1,
+    "TotalWeightKg": 89,
+    "DepartureTime": "2026-10-08T05:32:37.255641Z",
+    "ArrivalTime": "2026-10-08T05:37:37.2556411Z"
+  },
+  {
+    "Id": "f2a8c645-0c8b-4622-beae-c6d7032118bf",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "argusx",
+    "DestinationPlanetId": "angel1",
+    "PassengerCount": 1,
+    "TotalWeightKg": 105,
+    "DepartureTime": "2026-10-08T05:43:55.9047272Z",
+    "ArrivalTime": "2026-10-08T05:48:55.9047503Z"
+  },
+  {
+    "Id": "8e4e6a99-e976-47bc-a237-fdc96eb1773b",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "boreth",
+    "DestinationPlanetId": "angel1",
+    "PassengerCount": 1,
+    "TotalWeightKg": 77,
+    "DepartureTime": "2026-10-08T05:44:00.9279325Z",
+    "ArrivalTime": "2026-10-08T05:49:00.9279326Z"
+  },
+  {
+    "Id": "32220ecb-e37c-47c7-b47f-decdb6e85af5",
+    "ShuttleId": "s3",
+    "OriginPlanetId": "argusx",
+    "DestinationPlanetId": "angel1",
+    "PassengerCount": 1,
+    "TotalWeightKg": 115,
+    "DepartureTime": "2026-10-08T05:59:11.2373864Z",
+    "ArrivalTime": "2026-10-08T06:04:11.2374124Z"
+  },
+  {
+    "Id": "9eb18722-5549-46c6-be8e-a9dc2b17fd76",
+    "ShuttleId": "s1",
+    "OriginPlanetId": "angel1",
+    "DestinationPlanetId": "aurelia",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1800,
+    "DepartureTime": "2026-10-08T06:02:48.7625957Z",
+    "ArrivalTime": "2026-10-08T06:07:48.7626175Z"
+  },
+  {
+    "Id": "dd5856b2-f060-40ee-91b0-3dd1115d72c4",
+    "ShuttleId": "s2",
+    "OriginPlanetId": "boreth",
+    "DestinationPlanetId": "angel1",
+    "PassengerCount": 20,
+    "TotalWeightKg": 1686,
+    "DepartureTime": "2026-10-08T06:02:48.768949Z",
+    "ArrivalTime": "2026-10-08T06:07:48.7689492Z"
+  }
+]
